@@ -1,7 +1,7 @@
 # Two-Sum
 
 ## Problem Link
-[Two-Sum on LeetCode](https://leetcode.com/problems/two-sum/description/)
+[Two-Sum on LeetCode](https://leetcode.com/problems/two-sum/submissions/2081273008/)
 
 ## Description
 Can you solve this real interview question? Two Sum - Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
