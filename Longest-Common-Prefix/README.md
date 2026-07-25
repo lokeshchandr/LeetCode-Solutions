@@ -7,6 +7,7 @@
 | File Name | Time Complexity | Space Complexity |
 | --- | --- | --- |
 | Solution.cpp | N/A | N/A |
+| Solution_2.cpp | N/A | N/A |
 
 ## Description
 Can you solve this real interview question? Longest Common Prefix - Write a function to find the longest common prefix string amongst an array of strings.
