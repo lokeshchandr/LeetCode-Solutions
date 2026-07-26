@@ -7,6 +7,7 @@
 | File Name | Time Complexity | Space Complexity |
 | --- | --- | --- |
 | Solution.cpp | N/A | N/A |
+| Solution_2.cpp | N/A | N/A |
 
 ## Description
 Can you solve this real interview question? Sort Colors - Given an array nums with n objects colored red, white, or blue, sort them in-place [https://en.wikipedia.org/wiki/In-place_algorithm] so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
